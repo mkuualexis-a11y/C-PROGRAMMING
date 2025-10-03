@@ -18,10 +18,11 @@ printf("my average_marks:");
 scanf("%d", & average_marks);
 
 //conditions
-if(attendance >=75 & average_marks>=40) {
+if(attendance >=75 && average_marks>=40) {
 	printf("your eligible for the exam");
 }else {
 	printf(" your are not eligible for the final exam");
 }
 	return 0;
+
 }
