@@ -22,7 +22,7 @@ int main()
 		total = (30 * 25) + (units -30) * 25;
 	} 
 	else {
-       total= (30 * 20) + (30 * 25) +s(units - 60) * 30;
+       total= (30 * 20) + (30 * 25) +(units - 60) * 30;
 	}
 	
 printf("total bills: %2f ksh\n",total);
@@ -30,3 +30,4 @@ printf("total bills: %2f ksh\n",total);
 	
 	return 0;
 }
+
