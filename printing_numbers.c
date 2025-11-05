@@ -1,4 +1,4 @@
-//*
+
 /*
 name:alex mwangi
 reg:CT101/G/26432/25
@@ -14,4 +14,5 @@ int main(int argc, char** argv)
 		printf("%d\n",i);
 	}
 	return 0;
+
 }
